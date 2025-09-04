@@ -25,18 +25,17 @@ Built with a **FastAPI backend** and a **Streamlit frontend**, ClauseWise helps 
 ---
 
 ## 📁 Project Structure
+```text
 ClauseWise/
 ├── backend/
-│ ├── main.py # FastAPI backend
-│ ├── requirements.txt # Backend dependencies
+│   ├── main.py              # FastAPI backend
+│   ├── requirements.txt     # Backend dependencies
 ├── frontend/
-│ ├── app.py # Streamlit frontend
-│ ├── requirements.txt # Frontend dependencies
-├── README.md # Project documentation
-└── ... # Additional project files
+│   ├── app.py               # Streamlit frontend
+│   ├── requirements.txt     # Frontend dependencies
+├── README.md                # Project documentation
+└── ...                      # Additional project files
 
-yaml
-Copy code
 
 ---
 
