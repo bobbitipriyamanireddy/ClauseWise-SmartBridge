@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+python-multipart
+requests
+pydantic
+pypdf
+python-docx
+huggingface_hub
